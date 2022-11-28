@@ -1,0 +1,815 @@
+.bg-stuff-icon {
+  position: absolute;
+  top: 350px;
+  left: 0;
+  width: 962.21px;
+  height: 1624.61px;
+  object-fit: cover;
+}
+.privacy-policy-b,
+.terms-conditions {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  line-height: 11px;
+  display: inline-block;
+}
+.terms-conditions {
+  top: 0;
+}
+.links2-div {
+  position: absolute;
+  top: 404px;
+  left: 17px;
+  width: 84px;
+  height: 31px;
+}
+.ninjamail-is-a-sample-project {
+  position: absolute;
+  top: 337px;
+  left: 17px;
+  line-height: 19px;
+  display: inline-block;
+  width: 186px;
+  height: 53px;
+}
+.divider {
+  position: absolute;
+  width: calc(100% - 34px);
+  top: 314px;
+  right: 17px;
+  left: 17px;
+  background-color: #dbdbdb;
+  height: 1px;
+}
+.jobs,
+.slack-b {
+  position: absolute;
+  top: 147px;
+  left: 147px;
+  line-height: 14px;
+  display: inline-block;
+}
+.slack-b {
+  top: 126px;
+}
+.contact-us-b,
+.facebook,
+.instagram-b,
+.linkedin-b,
+.medium-b,
+.twitter-b {
+  position: absolute;
+  top: 105px;
+  left: 147px;
+  line-height: 14px;
+  display: inline-block;
+}
+.facebook,
+.instagram-b,
+.linkedin-b,
+.medium-b,
+.twitter-b {
+  top: 84px;
+}
+.facebook,
+.instagram-b,
+.medium-b,
+.twitter-b {
+  top: 63px;
+}
+.facebook,
+.medium-b,
+.twitter-b {
+  top: 42px;
+}
+.medium-b,
+.twitter-b {
+  top: 21px;
+}
+.medium-b {
+  top: 0;
+}
+.case-studies-b,
+.help-center-b,
+.resources-b,
+.templates-b {
+  position: absolute;
+  top: 189px;
+  left: 0;
+  line-height: 14px;
+  display: inline-block;
+}
+.help-center-b,
+.resources-b,
+.templates-b {
+  top: 168px;
+}
+.help-center-b,
+.resources-b {
+  top: 147px;
+}
+.resources-b {
+  top: 126px;
+}
+.about-us,
+.features-b,
+.partners-b,
+.pricing-b,
+.services-b,
+.tutorials-b {
+  position: absolute;
+  top: 105px;
+  left: 0;
+  line-height: 14px;
+  display: inline-block;
+}
+.about-us,
+.features-b,
+.partners-b,
+.pricing-b,
+.services-b {
+  top: 84px;
+}
+.features-b,
+.partners-b,
+.pricing-b,
+.services-b {
+  top: 63px;
+}
+.features-b,
+.pricing-b,
+.services-b {
+  top: 42px;
+}
+.features-b,
+.pricing-b {
+  top: 21px;
+}
+.features-b {
+  top: 0;
+}
+.footer-links-div {
+  position: absolute;
+  top: 88px;
+  left: 17px;
+  width: 211px;
+  height: 214.28px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+}
+.ninjamail-div {
+  position: absolute;
+  top: 3.23px;
+  left: 50.03px;
+  line-height: 19px;
+  font-weight: 900;
+  display: inline-block;
+}
+.mail-icon {
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 30px;
+  object-fit: cover;
+}
+.footer-div,
+.mail-icon,
+.ninjamail-logo-div {
+  position: absolute;
+  overflow: hidden;
+}
+.ninjamail-logo-div {
+  top: 47px;
+  left: 0;
+  width: 127.03px;
+  height: 37.27px;
+  font-size: 16px;
+}
+.footer-div {
+  top: 2997px;
+  left: calc(50% - 160px);
+  width: 320px;
+  height: 486px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+}
+.getstarted-box-div {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-turquoise);
+  height: 290px;
+}
+.pick-btn-div1 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 65.5px);
+  background-color: var(--color-white);
+  width: 131px;
+  height: 42px;
+}
+.pick-a-plan {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 17.56%;
+  letter-spacing: 0.65px;
+  line-height: 15px;
+  font-weight: 900;
+  display: inline-block;
+}
+.pick-btn-div {
+  position: absolute;
+  top: 189px;
+  left: calc(50% - 65px);
+  width: 131px;
+  height: 42px;
+}
+.get-started-today {
+  position: absolute;
+  top: calc(50% - 102px);
+  left: calc(50% - 129px);
+  font-size: 42px;
+  line-height: 48px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+  color: var(--color-white);
+  display: inline-block;
+  width: 259px;
+  height: 127px;
+}
+.get-started-div,
+.logos-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.get-started-div {
+  width: 100%;
+  top: 2707px;
+  right: 0;
+  left: 0;
+  height: 290px;
+  color: var(--color-turquoise);
+}
+.logos-icon {
+  top: 105px;
+  left: calc(50% - 119.5px);
+  width: 237px;
+  height: 137px;
+  object-fit: cover;
+}
+.all-the-best {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.already-use-us {
+  margin: 0;
+}
+.all-the-best-brands-already-us {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 140.5px);
+  line-height: 36px;
+  font-weight: 900;
+  display: inline-block;
+  width: 281px;
+  height: 110px;
+}
+.sec5-div {
+  position: absolute;
+  top: 2407px;
+  left: calc(50% - 140px);
+  width: 281px;
+  height: 242px;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-playfair-display);
+}
+.join-btn-div {
+  position: absolute;
+  top: 69px;
+  left: 39px;
+  background-color: var(--color-turquoise);
+  width: 144px;
+  height: 42px;
+}
+.join-our-list {
+  position: absolute;
+  top: 82px;
+  left: 61px;
+  letter-spacing: 0.65px;
+  line-height: 15px;
+  font-weight: 900;
+  text-align: center;
+  display: inline-block;
+  width: 101px;
+}
+.email-input-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: var(--color-white);
+  border: 1px solid #9f9f9f;
+  box-sizing: border-box;
+  width: 223px;
+  height: 42px;
+}
+.enter-your-email,
+.thanks-email-received {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  letter-spacing: 0.65px;
+  line-height: 15px;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+}
+.thanks-email-received {
+  top: 48px;
+  left: 40px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.6px;
+  line-height: 14px;
+  color: var(--color-turquoise);
+}
+.input-div {
+  position: absolute;
+  top: 732px;
+  left: calc(50% - 111.5px);
+  width: 223px;
+  height: 111px;
+  font-size: var(--font-size-lg);
+}
+.learn-how-others-are-reaching {
+  position: absolute;
+  top: 572px;
+  left: calc(50% - 119.5px);
+  font-size: var(--font-size-2xl);
+  line-height: 36px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 239px;
+  height: 155px;
+}
+.photo-gradient-div,
+.photo-icon {
+  position: absolute;
+  top: calc(50% - 78.5px);
+  right: 0;
+  width: 223px;
+  height: 157px;
+}
+.photo-icon {
+  object-fit: cover;
+}
+.photo-gradient-div {
+  background: linear-gradient(0deg, #000, rgba(84, 84, 84, 0));
+}
+.elayne-div,
+.member-since-2018 {
+  position: absolute;
+  left: 17.44px;
+  display: inline-block;
+}
+.elayne-div {
+  top: 100.34px;
+  line-height: 26px;
+  font-weight: 900;
+  width: 143px;
+  height: 29px;
+}
+.member-since-2018 {
+  top: 130.34px;
+  font-size: var(--font-size-base);
+  line-height: 14px;
+  width: 174px;
+  height: 22px;
+}
+.casestudy3-div,
+.photo-gradient-div1,
+.photo-icon1 {
+  position: absolute;
+  left: calc(50% - 111.5px);
+  width: 223px;
+  height: 157px;
+}
+.casestudy3-div {
+  top: 356px;
+  overflow: hidden;
+}
+.photo-gradient-div1,
+.photo-icon1 {
+  top: calc(50% - 78.5px);
+}
+.photo-icon1 {
+  object-fit: cover;
+}
+.photo-gradient-div1 {
+  background: linear-gradient(0deg, #000, rgba(84, 84, 84, 0));
+}
+.camile-div,
+.member-since-2012 {
+  position: absolute;
+  left: 17.06px;
+  display: inline-block;
+}
+.camile-div {
+  top: 100.34px;
+  line-height: 26px;
+  font-weight: 900;
+  width: 143px;
+  height: 29px;
+}
+.member-since-2012 {
+  top: 130.34px;
+  font-size: var(--font-size-base);
+  line-height: 14px;
+  width: 174px;
+  height: 22px;
+}
+.casestudy1-div,
+.casestudy2-div {
+  position: absolute;
+  top: 178px;
+  left: calc(50% - 111.5px);
+  width: 223px;
+  height: 157px;
+  overflow: hidden;
+}
+.casestudy1-div {
+  top: 0;
+}
+.sec4-div {
+  position: absolute;
+  top: 1510px;
+  left: calc(50% - 119px);
+  width: 239px;
+  height: 843px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.the-source-for-proven-engagin,
+.whether-youre-a-startup-smal {
+  position: absolute;
+  top: 110px;
+  left: 1px;
+  line-height: 16px;
+  font-weight: 500;
+  display: inline-block;
+}
+.the-source-for-proven-engagin {
+  top: 0;
+  left: 0;
+  font-size: 28px;
+  line-height: 31px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+}
+.sec3-txt-div {
+  position: absolute;
+  top: 617px;
+  left: calc(50% - 115px);
+  width: 232px;
+  height: 206px;
+  color: var(--color-black);
+}
+.photo-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 208.99px;
+  height: 274.3px;
+  object-fit: cover;
+}
+.white-box-div {
+  position: absolute;
+  top: 162.16px;
+  left: 0.29px;
+  background-color: var(--color-white);
+  width: 209px;
+  height: 128px;
+}
+.learn-more,
+.start-building-and-sharing-wit {
+  position: absolute;
+  top: 258.16px;
+  left: 20.29px;
+  line-height: 14px;
+  font-weight: 800;
+  display: inline-block;
+  width: 164px;
+  height: 18px;
+}
+.start-building-and-sharing-wit {
+  top: 178.16px;
+  line-height: 16px;
+  font-weight: 500;
+  color: var(--color-black);
+  width: 170px;
+  height: 73px;
+}
+.thumb2-div {
+  position: absolute;
+  top: 308.84px;
+  left: calc(50% - 58.29px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
+  width: 209.29px;
+  height: 290.16px;
+}
+.photo-icon4,
+.white-box-div1 {
+  position: absolute;
+  left: 0;
+  width: 209px;
+}
+.photo-icon4 {
+  top: 0;
+  height: 275px;
+  object-fit: cover;
+}
+.white-box-div1 {
+  top: 166px;
+  background-color: var(--color-white);
+  height: 128px;
+}
+.launch-campaigns-but-also-find,
+.learn-more1 {
+  position: absolute;
+  top: 263px;
+  left: 20px;
+  line-height: 14px;
+  font-weight: 800;
+  display: inline-block;
+  width: 164px;
+  height: 18px;
+}
+.launch-campaigns-but-also-find {
+  top: 183px;
+  line-height: 16px;
+  font-weight: 500;
+  color: var(--color-black);
+  height: 79px;
+}
+.sec3-div,
+.thumb1-div {
+  position: absolute;
+  left: calc(50% - 151px);
+}
+.thumb1-div {
+  top: 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  width: 209px;
+  height: 294px;
+}
+.sec3-div {
+  top: 640px;
+  width: 302px;
+  height: 823px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-turquoise);
+}
+.video-icon {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 152px);
+  width: 304px;
+  height: 171px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.learn-btn-div {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 32.5px);
+  background-color: var(--color-white);
+  width: 65px;
+  height: 21px;
+}
+.learn-how-div {
+  position: absolute;
+  top: 6.44px;
+  left: calc(50% - 19.5px);
+  letter-spacing: 0.3px;
+  line-height: 7px;
+  font-weight: 900;
+  display: inline-block;
+}
+.learnhow-btn-div {
+  position: absolute;
+  top: 98px;
+  left: calc(50% - 33px);
+  width: 65px;
+  height: 21px;
+}
+.reach-more-customers {
+  position: absolute;
+  top: 48.44px;
+  left: calc(50% - 121px);
+  font-size: var(--font-size-xl);
+  line-height: 29px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.hero-photo-icon,
+.video-div {
+  position: absolute;
+  overflow: hidden;
+}
+.video-div {
+  top: 436px;
+  left: calc(50% - 152px);
+  width: 304px;
+  height: 171px;
+  font-size: 6px;
+  color: var(--color-turquoise);
+}
+.hero-photo-icon {
+  width: calc(100% + 19px);
+  top: 38px;
+  right: -10px;
+  left: -9px;
+  max-width: 100%;
+  height: 201px;
+  object-fit: cover;
+}
+.get-demo-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: var(--color-white);
+  border: 3px solid var(--color-turquoise);
+  box-sizing: border-box;
+  width: 143px;
+  height: 40px;
+}
+.get-a-demo {
+  position: absolute;
+  top: calc(50% - 7.11px);
+  left: 18.88%;
+  letter-spacing: 1.3px;
+  line-height: 15px;
+  font-weight: 900;
+  display: inline-block;
+}
+.getdemobtn-off-div {
+  position: absolute;
+  top: 284px;
+  left: 158px;
+  width: 143px;
+  height: 40.22px;
+  overflow: hidden;
+  color: var(--color-turquoise);
+}
+.try-now-btn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-turquoise);
+  width: 143px;
+  height: 40px;
+}
+.try-now-div {
+  position: absolute;
+  top: calc(50% - 7.11px);
+  left: 27.27%;
+  letter-spacing: 0.65px;
+  line-height: 15px;
+  font-weight: 900;
+  display: inline-block;
+}
+.trynow-off-div {
+  position: absolute;
+  top: 284px;
+  left: 1px;
+  width: 143px;
+  height: 40.22px;
+  overflow: hidden;
+  color: var(--color-white);
+}
+.create-and-launch-email-campai,
+.create-stunning-email-campai {
+  position: absolute;
+  top: 236px;
+  left: 0;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+}
+.create-stunning-email-campai {
+  top: 0;
+  font-size: 36px;
+  line-height: 46px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+}
+.hero-div,
+.hero-left-side-div {
+  position: absolute;
+  width: 301px;
+  height: 324.22px;
+}
+.hero-left-side-div {
+  top: 0;
+  left: 0;
+}
+.hero-div {
+  top: 70px;
+  left: calc(50% - 151px);
+}
+.signup-btn-div1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: var(--color-turquoise);
+  width: 110px;
+  height: 25px;
+}
+.sign-up-free {
+  position: absolute;
+  top: calc(50% - 6.5px);
+  left: 12.27%;
+  letter-spacing: 0.82px;
+  line-height: 13px;
+  font-weight: 800;
+  display: inline-block;
+}
+.links-div,
+.signup-btn-div {
+  position: absolute;
+  width: 110px;
+  height: 25px;
+}
+.signup-btn-div {
+  top: 0;
+  left: 0;
+}
+.links-div {
+  top: 15px;
+  right: 13px;
+}
+.ninjamail-div1 {
+  position: absolute;
+  top: calc(50% - 20.25px);
+  left: 34.23%;
+  line-height: 26px;
+  font-weight: 900;
+  display: inline-block;
+}
+.mail-icon1 {
+  position: absolute;
+  height: calc(100% - 10px);
+  top: 0;
+  bottom: 10px;
+  left: 0;
+  max-height: 100%;
+  width: 84px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.ninjamail-logo-div1 {
+  position: absolute;
+  top: 9px;
+  left: 12px;
+  width: 155px;
+  height: 52px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.nav-div,
+.ninjamail-mobile {
+  background-color: var(--color-white);
+  width: 100%;
+  overflow: hidden;
+}
+.nav-div {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 62px;
+  font-size: 11px;
+  color: var(--color-white);
+}
+.ninjamail-mobile {
+  position: relative;
+  height: 3483px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-raleway);
+}
