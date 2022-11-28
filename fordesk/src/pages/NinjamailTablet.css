@@ -1,0 +1,859 @@
+.bg-stuff-icon1 {
+  position: absolute;
+  top: 86px;
+  left: 0;
+  width: 1174px;
+  height: 1705px;
+  object-fit: cover;
+}
+.privacy-policy-b1,
+.terms-conditions1 {
+  position: absolute;
+  top: calc(50% - 5.5px);
+  left: 0;
+  line-height: 11px;
+  display: inline-block;
+}
+.privacy-policy-b1 {
+  left: 65.52%;
+}
+.links2-div1 {
+  position: absolute;
+  top: 245px;
+  right: 86px;
+  width: 174px;
+  height: 11px;
+}
+.ninjamail-is-a-sample-project1 {
+  position: absolute;
+  top: 245px;
+  left: 82px;
+  line-height: 11px;
+  display: inline-block;
+}
+.divider1 {
+  position: absolute;
+  width: calc(100% - 57px);
+  top: 219px;
+  right: 28px;
+  left: 29px;
+  background-color: var(--color-gray-100);
+  height: 1px;
+}
+.contact-us-b1,
+.jobs1,
+.linkedin-b1,
+.slack-b1 {
+  position: absolute;
+  top: 42px;
+  right: 37px;
+  line-height: 14px;
+  display: inline-block;
+}
+.contact-us-b1,
+.linkedin-b1,
+.slack-b1 {
+  top: 21px;
+  right: 32px;
+}
+.contact-us-b1,
+.linkedin-b1 {
+  top: 0;
+  right: 0;
+}
+.linkedin-b1 {
+  top: 84px;
+  right: 112px;
+}
+.case-studies-b1,
+.facebook1,
+.instagram-b1,
+.medium-b1,
+.twitter-b1 {
+  position: absolute;
+  top: 63px;
+  right: 103px;
+  line-height: 14px;
+  display: inline-block;
+}
+.case-studies-b1,
+.facebook1,
+.medium-b1,
+.twitter-b1 {
+  top: 42px;
+  right: 106px;
+}
+.case-studies-b1,
+.medium-b1,
+.twitter-b1 {
+  top: 21px;
+  right: 121px;
+}
+.case-studies-b1,
+.medium-b1 {
+  top: 0;
+  right: 115px;
+}
+.case-studies-b1 {
+  top: 105px;
+  right: 203px;
+}
+.help-center-b1,
+.resources-b1,
+.templates-b1,
+.tutorials-b1 {
+  position: absolute;
+  top: 84px;
+  right: 217px;
+  line-height: 14px;
+  display: inline-block;
+}
+.help-center-b1,
+.resources-b1,
+.tutorials-b1 {
+  top: 63px;
+  right: 208px;
+}
+.resources-b1,
+.tutorials-b1 {
+  top: 42px;
+  right: 218px;
+}
+.tutorials-b1 {
+  top: 21px;
+  right: 228px;
+}
+.about-us1,
+.features-b1,
+.partners-b1,
+.pricing-b1,
+.services-b1 {
+  position: absolute;
+  top: 0;
+  right: 225px;
+  line-height: 14px;
+  display: inline-block;
+}
+.features-b1,
+.partners-b1,
+.pricing-b1,
+.services-b1 {
+  top: 63px;
+  right: 319px;
+}
+.features-b1,
+.pricing-b1,
+.services-b1 {
+  top: 42px;
+}
+.features-b1,
+.pricing-b1 {
+  top: 21px;
+  right: 328px;
+}
+.features-b1 {
+  top: 0;
+  right: 317px;
+}
+.footer-links-div1 {
+  position: absolute;
+  top: 51px;
+  right: 81px;
+  width: 368px;
+  height: 130.28px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+}
+.ninjamail-div2 {
+  position: absolute;
+  top: 3.23px;
+  left: 50.03px;
+  line-height: 19px;
+  font-weight: 900;
+  display: inline-block;
+}
+.mail-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 30px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.ninjamail-logo-div2 {
+  position: absolute;
+  top: 47px;
+  left: 63px;
+  width: 127.03px;
+  height: 37.27px;
+  overflow: hidden;
+  font-size: var(--font-size-2xl);
+}
+.footer-div1 {
+  position: absolute;
+  top: 2279px;
+  left: calc(50% - 384px);
+  width: 768px;
+  height: 286px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+}
+.getstarted-box-div1 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-turquoise);
+  height: 240px;
+}
+.pick-btn-div3 {
+  position: absolute;
+  top: calc(50% - 21px);
+  left: calc(50% - 65.5px);
+  background-color: var(--color-white);
+  width: 131px;
+  height: 42px;
+}
+.pick-a-plan1 {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 17.56%;
+  letter-spacing: 0.65px;
+  line-height: 15px;
+  font-weight: 900;
+  display: inline-block;
+}
+.pick-btn-div2 {
+  position: absolute;
+  top: 139px;
+  left: calc(50% - 65px);
+  width: 131px;
+  height: 42px;
+}
+.get-started-today1 {
+  position: absolute;
+  top: calc(50% - 75px);
+  left: calc(50% - 308px);
+  font-size: var(--font-size-11xl);
+  line-height: 56px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+  color: var(--color-white);
+  display: inline-block;
+  width: 617px;
+  height: 81px;
+}
+.get-started-div1,
+.logos-icon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.get-started-div1 {
+  width: 100%;
+  top: 2159px;
+  right: 6px;
+  left: -6px;
+  height: 240px;
+  text-align: center;
+  color: var(--color-turquoise);
+}
+.logos-icon1 {
+  top: 107px;
+  left: calc(50% - 302.5px);
+  width: 605px;
+  height: 31px;
+  object-fit: cover;
+}
+.all-the-best1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.all-the-best-brands-already-us1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 308.5px);
+  line-height: 36px;
+  font-weight: 900;
+  display: inline-block;
+  width: 617px;
+  height: 110px;
+}
+.sec5-div1 {
+  position: absolute;
+  top: 1806px;
+  left: calc(50% - 308px);
+  width: 617px;
+  height: 138px;
+  text-align: center;
+  font-size: var(--font-size-8xl);
+  font-family: var(--font-playfair-display);
+}
+.join-btn-div1 {
+  position: absolute;
+  top: 0;
+  left: 292px;
+  background-color: var(--color-turquoise);
+  width: 144px;
+  height: 42px;
+}
+.join-our-list1 {
+  position: absolute;
+  top: 13px;
+  left: 313.5px;
+  letter-spacing: 0.65px;
+  line-height: 15px;
+  font-weight: 900;
+  text-align: center;
+  display: inline-block;
+}
+.email-input-box1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 275px;
+  height: 42px;
+}
+.enter-your-email1,
+.thanks-email-received1 {
+  position: absolute;
+  top: 12px;
+  left: 16px;
+  letter-spacing: 0.65px;
+  line-height: 15px;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+}
+.thanks-email-received1 {
+  top: 55px;
+  color: var(--color-turquoise);
+}
+.input-div1 {
+  position: absolute;
+  top: 275px;
+  left: calc(50% - 219px);
+  width: 436px;
+  height: 70px;
+  font-size: var(--font-size-lg);
+}
+.learn-how-others-are-reaching1 {
+  position: absolute;
+  top: 182px;
+  left: calc(50% - 296px);
+  font-size: var(--font-size-8xl);
+  line-height: 36px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 591px;
+  height: 89px;
+}
+.photo-gradient-div3,
+.photo-icon5 {
+  position: absolute;
+  top: calc(50% - 78.5px);
+  right: 0;
+  width: 223px;
+  height: 157px;
+}
+.photo-icon5 {
+  object-fit: cover;
+}
+.photo-gradient-div3 {
+  background: linear-gradient(0deg, #000, rgba(84, 84, 84, 0));
+}
+.elayne-div1,
+.member-since-20181 {
+  position: absolute;
+  left: 17.44px;
+  display: inline-block;
+}
+.elayne-div1 {
+  top: 100.34px;
+  line-height: 26px;
+  font-weight: 900;
+  width: 143px;
+  height: 29px;
+}
+.member-since-20181 {
+  top: 130.34px;
+  font-size: var(--font-size-base);
+  line-height: 14px;
+  width: 174px;
+  height: 22px;
+}
+.casestudy3-div1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 131px);
+  width: 223px;
+  height: 157px;
+  overflow: hidden;
+}
+.photo-gradient-div4,
+.photo-icon6 {
+  position: absolute;
+  top: calc(50% - 78.5px);
+  left: calc(50% - 111.5px);
+  width: 223px;
+  height: 157px;
+}
+.photo-icon6 {
+  object-fit: cover;
+}
+.photo-gradient-div4 {
+  background: linear-gradient(0deg, #000, rgba(84, 84, 84, 0));
+}
+.camile-div2,
+.member-since-20122 {
+  position: absolute;
+  left: 17.06px;
+  display: inline-block;
+}
+.camile-div2 {
+  top: 100.34px;
+  line-height: 26px;
+  font-weight: 900;
+  width: 143px;
+  height: 29px;
+}
+.member-since-20122 {
+  top: 130.34px;
+  font-size: var(--font-size-base);
+  line-height: 14px;
+  width: 174px;
+  height: 22px;
+}
+.casestudy1-div1,
+.casestudy2-div1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 111.5px);
+  width: 223px;
+  height: 157px;
+  overflow: hidden;
+}
+.casestudy1-div1 {
+  left: calc(50% - 354px);
+}
+.sec4-div1 {
+  position: absolute;
+  top: 1411px;
+  left: calc(50% - 353px);
+  width: 708px;
+  height: 345px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+}
+.the-source-for-proven-engagin1,
+.whether-youre-a-startup-smal1 {
+  position: absolute;
+  top: 110px;
+  left: 1px;
+  line-height: 16px;
+  font-weight: 500;
+  display: inline-block;
+}
+.the-source-for-proven-engagin1 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-8xl);
+  line-height: 31px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+}
+.sec3-txt-div1 {
+  position: absolute;
+  top: 90px;
+  left: calc(50% + 123px);
+  width: 232px;
+  height: 206px;
+  color: var(--color-black);
+}
+.photo-icon8 {
+  position: absolute;
+  top: -8px;
+  left: -16px;
+  width: 240.99px;
+  height: 282.3px;
+  object-fit: cover;
+}
+.white-box-div2 {
+  position: absolute;
+  top: 162.16px;
+  left: 0.29px;
+  background-color: var(--color-white);
+  width: 209px;
+  height: 128px;
+}
+.learn-more2,
+.start-building-and-sharing-wit1 {
+  position: absolute;
+  top: 258.16px;
+  left: 20.29px;
+  line-height: 14px;
+  font-weight: 800;
+  display: inline-block;
+  width: 164px;
+  height: 18px;
+}
+.start-building-and-sharing-wit1 {
+  top: 178.16px;
+  line-height: 16px;
+  font-weight: 500;
+  color: var(--color-black);
+  width: 170px;
+  height: 73px;
+}
+.thumb2-div1 {
+  position: absolute;
+  top: 57.84px;
+  left: calc(50% - 115.29px);
+  width: 209.29px;
+  height: 290.16px;
+}
+.photo-icon9 {
+  position: absolute;
+  top: -8px;
+  left: -16px;
+  width: 241px;
+  height: 283px;
+  object-fit: cover;
+}
+.white-box-div3 {
+  position: absolute;
+  top: 166px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 209px;
+  height: 128px;
+}
+.launch-campaigns-but-also-find1,
+.learn-more3 {
+  position: absolute;
+  top: 263px;
+  left: 20px;
+  line-height: 14px;
+  font-weight: 800;
+  display: inline-block;
+  width: 164px;
+  height: 18px;
+}
+.launch-campaigns-but-also-find1 {
+  top: 183px;
+  line-height: 16px;
+  font-weight: 500;
+  color: var(--color-black);
+  height: 79px;
+}
+.sec3-div1,
+.thumb1-div1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 355px);
+  width: 209px;
+  height: 294px;
+}
+.sec3-div1 {
+  top: 976px;
+  width: 710px;
+  height: 348px;
+  font-size: var(--font-size-base);
+  color: var(--color-turquoise);
+}
+.video-icon1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 308px);
+  width: 616px;
+  height: 347px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.learn-btn-div1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 66px);
+  background-color: var(--color-white);
+  width: 132px;
+  height: 42px;
+}
+.learn-how-div1 {
+  position: absolute;
+  top: 12.44px;
+  left: calc(50% - 42px);
+  letter-spacing: 0.65px;
+  line-height: 15px;
+  font-weight: 900;
+  display: inline-block;
+}
+.learnhow-btn-div1 {
+  position: absolute;
+  top: 199px;
+  left: calc(50% - 66px);
+  width: 132px;
+  height: 42px;
+}
+.reach-more-customers1 {
+  position: absolute;
+  top: 106.44px;
+  left: calc(50% - 213px);
+  font-size: var(--font-size-10xl);
+  line-height: 51px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.video-div1 {
+  position: absolute;
+  top: 565px;
+  left: calc(50% - 308px);
+  width: 616px;
+  height: 347px;
+  overflow: hidden;
+  text-align: center;
+  color: var(--color-turquoise);
+}
+.hero-photo-icon1 {
+  position: absolute;
+  top: -13px;
+  right: -16px;
+  width: 477px;
+  height: 282px;
+  object-fit: cover;
+}
+.get-demo-btn1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 65.5px);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-turquoise);
+  box-sizing: border-box;
+  width: 131px;
+  height: 42px;
+}
+.get-a-demo1 {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 16.03%;
+  letter-spacing: 1.3px;
+  line-height: 15px;
+  font-weight: 900;
+  display: inline-block;
+}
+.getdemobtn-off-div1,
+.try-now-btn1 {
+  position: absolute;
+  width: 131px;
+  height: 42px;
+}
+.getdemobtn-off-div1 {
+  top: 166px;
+  left: 160px;
+  overflow: hidden;
+  color: var(--color-turquoise);
+}
+.try-now-btn1 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-turquoise);
+}
+.try-now-div1 {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 23.66%;
+  letter-spacing: 0.65px;
+  line-height: 15px;
+  font-weight: 900;
+  display: inline-block;
+}
+.trynow-off-div1 {
+  position: absolute;
+  top: 166px;
+  left: 0;
+  width: 131px;
+  height: 42px;
+  overflow: hidden;
+  color: var(--color-white);
+}
+.your-customers-in {
+  margin: 0;
+}
+.create-and-launch-email-campai1,
+.create-stunning-email-campaig {
+  position: absolute;
+  top: 109px;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 16px;
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+}
+.create-stunning-email-campaig {
+  top: 0;
+  font-size: var(--font-size-10xl);
+  line-height: 46px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+}
+.hero-left-side-div1 {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  width: 315px;
+  height: 208px;
+}
+.hero-div1 {
+  position: absolute;
+  top: 133px;
+  left: calc(50% - 355px);
+  width: 711px;
+  height: 250px;
+  text-align: center;
+}
+.signup-btn-div3 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: var(--color-turquoise);
+  width: 110px;
+  height: 25px;
+}
+.sign-up-free1 {
+  position: absolute;
+  top: calc(50% - 6.5px);
+  left: 12.27%;
+  letter-spacing: 0.82px;
+  line-height: 13px;
+  font-weight: 800;
+  display: inline-block;
+}
+.signup-btn-div2 {
+  position: absolute;
+  top: 0;
+  left: 333px;
+  width: 110px;
+  height: 25px;
+  text-align: center;
+  color: var(--color-white);
+}
+.underlink-1-div,
+.underlink-2-div,
+.underlink-3-div,
+.underlink-4-div {
+  position: absolute;
+  height: 12%;
+  width: 16.03%;
+  top: 88%;
+  right: 28.44%;
+  bottom: 0;
+  left: 55.53%;
+  background-color: var(--color-turquoise);
+}
+.underlink-1-div,
+.underlink-2-div,
+.underlink-3-div {
+  right: 47.86%;
+  left: 36.12%;
+}
+.underlink-1-div,
+.underlink-2-div {
+  right: 65.46%;
+  left: 18.51%;
+}
+.underlink-1-div {
+  right: 83.97%;
+  left: 0;
+}
+.features-div,
+.partners-div,
+.pricing-div,
+.services-div {
+  position: absolute;
+  top: calc(50% - 6.5px);
+  left: 56.43%;
+  letter-spacing: 0.82px;
+  line-height: 13px;
+  font-weight: 800;
+  display: inline-block;
+}
+.features-div,
+.pricing-div,
+.services-div {
+  left: 37.47%;
+}
+.features-div,
+.pricing-div {
+  left: 20.77%;
+}
+.features-div {
+  left: 1.13%;
+}
+.links-div1 {
+  position: absolute;
+  top: 18px;
+  right: 16px;
+  width: 443px;
+  height: 25px;
+}
+.ninjamail-div3 {
+  position: absolute;
+  top: calc(50% - 20.47px);
+  left: 41.06%;
+  line-height: 26px;
+  font-weight: 900;
+  display: inline-block;
+}
+.mail-icon3 {
+  position: absolute;
+  height: calc(100% - 10.43px);
+  top: 0;
+  bottom: 10.43px;
+  left: 6px;
+  max-height: 100%;
+  width: 84px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.ninjamail-logo-div3 {
+  position: absolute;
+  top: 13px;
+  left: -6px;
+  width: 173.05px;
+  height: 52.43px;
+  overflow: hidden;
+  font-size: var(--font-size-6xl);
+}
+.nav-div1,
+.ninjamail-tablet {
+  background-color: var(--color-white);
+  width: 100%;
+  overflow: hidden;
+}
+.nav-div1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 66px;
+  font-size: var(--font-size-sm);
+}
+.ninjamail-tablet {
+  position: relative;
+  height: 2565px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-raleway);
+}
