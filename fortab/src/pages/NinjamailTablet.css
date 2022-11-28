@@ -1,0 +1,870 @@
+.bg-stuff-icon {
+  position: absolute;
+  top: 86px;
+  left: 0;
+  width: 1174px;
+  height: 1705px;
+  object-fit: cover;
+}
+.privacy-policy-b,
+.terms-conditions {
+  position: absolute;
+  top: calc(50% - 5.5px);
+  line-height: 11px;
+  display: inline-block;
+}
+.terms-conditions {
+  left: 0;
+}
+.privacy-policy-b {
+  left: 65.52%;
+}
+.links2-div {
+  position: absolute;
+  top: 245px;
+  right: 86px;
+  width: 174px;
+  height: 11px;
+}
+.ninjamail-is-a-sample-project {
+  position: absolute;
+  top: 245px;
+  left: 82px;
+  line-height: 11px;
+  display: inline-block;
+}
+.divider {
+  position: absolute;
+  width: calc(100% - 57px);
+  top: 219px;
+  right: 28px;
+  left: 29px;
+  background-color: #dbdbdb;
+  height: 1px;
+}
+.contact-us-b,
+.jobs,
+.slack-b {
+  position: absolute;
+  line-height: 14px;
+  display: inline-block;
+}
+.jobs,
+.slack-b {
+  top: 42px;
+  right: 37px;
+}
+.slack-b {
+  top: 21px;
+  right: 32px;
+}
+.contact-us-b {
+  top: 0;
+  right: 0;
+}
+.facebook,
+.instagram-b {
+  position: absolute;
+  line-height: 14px;
+  display: inline-block;
+}
+.linkedin-b {
+  top: 84px;
+  right: 112px;
+}
+.linkedin-b,
+.medium-b,
+.twitter-b {
+  position: absolute;
+  line-height: 14px;
+  display: inline-block;
+}
+.instagram-b {
+  top: 63px;
+  right: 103px;
+}
+.facebook {
+  top: 42px;
+  right: 106px;
+}
+.twitter-b {
+  top: 21px;
+  right: 121px;
+}
+.medium-b {
+  top: 0;
+  right: 115px;
+}
+.case-studies-b {
+  top: 105px;
+  right: 203px;
+}
+.case-studies-b,
+.help-center-b,
+.resources-b,
+.templates-b,
+.tutorials-b {
+  position: absolute;
+  line-height: 14px;
+  display: inline-block;
+}
+.templates-b {
+  top: 84px;
+  right: 217px;
+}
+.help-center-b {
+  top: 63px;
+  right: 208px;
+}
+.resources-b {
+  top: 42px;
+  right: 218px;
+}
+.tutorials-b {
+  top: 21px;
+  right: 228px;
+}
+.about-us {
+  top: 0;
+  right: 225px;
+}
+.about-us,
+.features-b,
+.partners-b,
+.pricing-b,
+.services-b {
+  position: absolute;
+  line-height: 14px;
+  display: inline-block;
+}
+.partners-b {
+  top: 63px;
+  right: 319px;
+}
+.services-b {
+  right: 319px;
+  top: 42px;
+}
+.pricing-b {
+  top: 21px;
+  right: 328px;
+}
+.features-b {
+  top: 0;
+  right: 317px;
+}
+.footer-links-div {
+  position: absolute;
+  top: 51px;
+  right: 81px;
+  width: 368px;
+  height: 130.28px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+}
+.ninjamail-div {
+  position: absolute;
+  top: 3.23px;
+  left: 50.03px;
+  line-height: 19px;
+  font-weight: 900;
+  display: inline-block;
+}
+.mail-icon {
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 30px;
+  object-fit: cover;
+}
+.footer-div,
+.mail-icon,
+.ninjamail-logo-div {
+  position: absolute;
+  overflow: hidden;
+}
+.ninjamail-logo-div {
+  top: 47px;
+  left: 63px;
+  width: 127.03px;
+  height: 37.27px;
+  font-size: 16px;
+}
+.footer-div {
+  top: 2279px;
+  left: calc(50% - 384px);
+  width: 768px;
+  height: 286px;
+  font-size: var(--font-size-xs);
+}
+.getstarted-box-div {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: var(--color-turquoise);
+  height: 240px;
+}
+.pick-btn-div1 {
+  position: absolute;
+  top: calc(50% - 21px);
+  left: calc(50% - 65.5px);
+  background-color: var(--color-white);
+  width: 131px;
+  height: 42px;
+}
+.pick-a-plan {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 17.56%;
+  letter-spacing: 0.65px;
+  line-height: 15px;
+  font-weight: 900;
+  display: inline-block;
+}
+.pick-btn-div {
+  position: absolute;
+  top: 139px;
+  left: calc(50% - 65px);
+  width: 131px;
+  height: 42px;
+}
+.get-started-today {
+  position: absolute;
+  top: calc(50% - 75px);
+  left: calc(50% - 308px);
+  font-size: 42px;
+  line-height: 56px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+  color: var(--color-white);
+  display: inline-block;
+  width: 617px;
+  height: 81px;
+}
+.get-started-div,
+.logos-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.get-started-div {
+  width: 100%;
+  top: 2159px;
+  right: 6px;
+  left: -6px;
+  height: 240px;
+  text-align: center;
+  color: var(--color-turquoise);
+}
+.logos-icon {
+  top: 107px;
+  left: calc(50% - 302.5px);
+  width: 605px;
+  height: 31px;
+  object-fit: cover;
+}
+.all-the-best {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.already-use-us {
+  margin: 0;
+}
+.all-the-best-brands-already-us {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 308.5px);
+  line-height: 36px;
+  font-weight: 900;
+  display: inline-block;
+  width: 617px;
+  height: 110px;
+}
+.sec5-div {
+  position: absolute;
+  top: 1806px;
+  left: calc(50% - 308px);
+  width: 617px;
+  height: 138px;
+  text-align: center;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-playfair-display);
+}
+.join-btn-div {
+  position: absolute;
+  top: 0;
+  left: 292px;
+  background-color: var(--color-turquoise);
+  width: 144px;
+  height: 42px;
+}
+.join-our-list {
+  position: absolute;
+  top: 13px;
+  left: 313.5px;
+  letter-spacing: 0.65px;
+  line-height: 15px;
+  font-weight: 900;
+  text-align: center;
+  display: inline-block;
+}
+.email-input-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: var(--color-white);
+  border: 1px solid #9f9f9f;
+  box-sizing: border-box;
+  width: 275px;
+  height: 42px;
+}
+.enter-your-email,
+.thanks-email-received {
+  position: absolute;
+  top: 12px;
+  left: 16px;
+  letter-spacing: 0.65px;
+  line-height: 15px;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+}
+.thanks-email-received {
+  top: 55px;
+  color: var(--color-turquoise);
+}
+.input-div {
+  position: absolute;
+  top: 275px;
+  left: calc(50% - 219px);
+  width: 436px;
+  height: 70px;
+  font-size: var(--font-size-lg);
+}
+.learn-how-others-are-reaching {
+  position: absolute;
+  top: 182px;
+  left: calc(50% - 296px);
+  font-size: var(--font-size-2xl);
+  line-height: 36px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 591px;
+  height: 89px;
+}
+.photo-gradient-div,
+.photo-icon {
+  position: absolute;
+  top: calc(50% - 78.5px);
+  right: 0;
+  width: 223px;
+  height: 157px;
+}
+.photo-icon {
+  object-fit: cover;
+}
+.photo-gradient-div {
+  background: linear-gradient(0deg, #000, rgba(84, 84, 84, 0));
+}
+.elayne-div,
+.member-since-2018 {
+  position: absolute;
+  left: 17.44px;
+  display: inline-block;
+}
+.elayne-div {
+  top: 100.34px;
+  line-height: 26px;
+  font-weight: 900;
+  width: 143px;
+  height: 29px;
+}
+.member-since-2018 {
+  top: 130.34px;
+  font-size: var(--font-size-base);
+  line-height: 14px;
+  width: 174px;
+  height: 22px;
+}
+.casestudy3-div {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 131px);
+  width: 223px;
+  height: 157px;
+  overflow: hidden;
+}
+.photo-gradient-div1,
+.photo-icon1 {
+  position: absolute;
+  top: calc(50% - 78.5px);
+  left: calc(50% - 111.5px);
+  width: 223px;
+  height: 157px;
+}
+.photo-icon1 {
+  object-fit: cover;
+}
+.photo-gradient-div1 {
+  background: linear-gradient(0deg, #000, rgba(84, 84, 84, 0));
+}
+.camile-div,
+.member-since-2012 {
+  position: absolute;
+  left: 17.06px;
+  display: inline-block;
+}
+.camile-div {
+  top: 100.34px;
+  line-height: 26px;
+  font-weight: 900;
+  width: 143px;
+  height: 29px;
+}
+.member-since-2012 {
+  top: 130.34px;
+  font-size: var(--font-size-base);
+  line-height: 14px;
+  width: 174px;
+  height: 22px;
+}
+.casestudy1-div,
+.casestudy2-div {
+  position: absolute;
+  top: 0;
+  width: 223px;
+  height: 157px;
+  overflow: hidden;
+}
+.casestudy2-div {
+  left: calc(50% - 111.5px);
+}
+.casestudy1-div {
+  left: calc(50% - 354px);
+}
+.sec4-div {
+  position: absolute;
+  top: 1411px;
+  left: calc(50% - 353px);
+  width: 708px;
+  height: 345px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.the-source-for-proven-engagin,
+.whether-youre-a-startup-smal {
+  position: absolute;
+  display: inline-block;
+}
+.whether-youre-a-startup-smal {
+  top: 110px;
+  left: 1px;
+  line-height: 16px;
+  font-weight: 500;
+}
+.the-source-for-proven-engagin {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-2xl);
+  line-height: 31px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+}
+.sec3-txt-div {
+  position: absolute;
+  top: 90px;
+  left: calc(50% + 123px);
+  width: 232px;
+  height: 206px;
+  color: var(--color-black);
+}
+.photo-icon3 {
+  position: absolute;
+  top: -8px;
+  left: -16px;
+  width: 240.99px;
+  height: 282.3px;
+  object-fit: cover;
+}
+.white-box-div {
+  position: absolute;
+  top: 162.16px;
+  left: 0.29px;
+  background-color: var(--color-white);
+  width: 209px;
+  height: 128px;
+}
+.learn-more,
+.start-building-and-sharing-wit {
+  position: absolute;
+  top: 258.16px;
+  left: 20.29px;
+  line-height: 14px;
+  font-weight: 800;
+  display: inline-block;
+  width: 164px;
+  height: 18px;
+}
+.start-building-and-sharing-wit {
+  top: 178.16px;
+  line-height: 16px;
+  font-weight: 500;
+  color: var(--color-black);
+  width: 170px;
+  height: 73px;
+}
+.thumb2-div {
+  position: absolute;
+  top: 57.84px;
+  left: calc(50% - 115.29px);
+  width: 209.29px;
+  height: 290.16px;
+}
+.photo-icon4 {
+  position: absolute;
+  top: -8px;
+  left: -16px;
+  width: 241px;
+  height: 283px;
+  object-fit: cover;
+}
+.white-box-div1 {
+  position: absolute;
+  top: 166px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 209px;
+  height: 128px;
+}
+.launch-campaigns-but-also-find,
+.learn-more1 {
+  position: absolute;
+  left: 20px;
+  display: inline-block;
+  width: 164px;
+}
+.learn-more1 {
+  top: 263px;
+  line-height: 14px;
+  font-weight: 800;
+  height: 18px;
+}
+.launch-campaigns-but-also-find {
+  top: 183px;
+  line-height: 16px;
+  font-weight: 500;
+  color: var(--color-black);
+  height: 79px;
+}
+.sec3-div,
+.thumb1-div {
+  position: absolute;
+  left: calc(50% - 355px);
+}
+.thumb1-div {
+  top: 0;
+  width: 209px;
+  height: 294px;
+}
+.sec3-div {
+  top: 976px;
+  width: 710px;
+  height: 348px;
+  font-size: var(--font-size-base);
+  color: var(--color-turquoise);
+}
+.video-icon {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 308px);
+  width: 616px;
+  height: 347px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.learn-btn-div {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 66px);
+  background-color: var(--color-white);
+  width: 132px;
+  height: 42px;
+}
+.learn-how-div {
+  position: absolute;
+  top: 12.44px;
+  left: calc(50% - 42px);
+  letter-spacing: 0.65px;
+  line-height: 15px;
+  font-weight: 900;
+  display: inline-block;
+}
+.learnhow-btn-div {
+  position: absolute;
+  top: 199px;
+  left: calc(50% - 66px);
+  width: 132px;
+  height: 42px;
+}
+.reach-more-customers {
+  position: absolute;
+  top: 106.44px;
+  left: calc(50% - 213px);
+  font-size: var(--font-size-3xl);
+  line-height: 51px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.video-div {
+  position: absolute;
+  top: 565px;
+  left: calc(50% - 308px);
+  width: 616px;
+  height: 347px;
+  overflow: hidden;
+  text-align: center;
+  color: var(--color-turquoise);
+}
+.hero-photo-icon {
+  position: absolute;
+  top: -13px;
+  right: -16px;
+  width: 477px;
+  height: 282px;
+  object-fit: cover;
+}
+.get-demo-btn {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 65.5px);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-turquoise);
+  box-sizing: border-box;
+  width: 131px;
+  height: 42px;
+}
+.get-a-demo {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 16.03%;
+  letter-spacing: 1.3px;
+  line-height: 15px;
+  font-weight: 900;
+  display: inline-block;
+}
+.getdemobtn-off-div,
+.try-now-btn {
+  position: absolute;
+  width: 131px;
+  height: 42px;
+}
+.getdemobtn-off-div {
+  top: 166px;
+  left: 160px;
+  overflow: hidden;
+  color: var(--color-turquoise);
+}
+.try-now-btn {
+  top: 0;
+  left: 0;
+  background-color: var(--color-turquoise);
+}
+.try-now-div {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 23.66%;
+  letter-spacing: 0.65px;
+  line-height: 15px;
+  font-weight: 900;
+  display: inline-block;
+}
+.trynow-off-div {
+  position: absolute;
+  top: 166px;
+  left: 0;
+  width: 131px;
+  height: 42px;
+  overflow: hidden;
+  color: var(--color-white);
+}
+.create-and-launch-email-campai,
+.create-stunning-email-campaig {
+  position: absolute;
+  top: 109px;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 16px;
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+}
+.create-stunning-email-campaig {
+  top: 0;
+  font-size: var(--font-size-3xl);
+  line-height: 46px;
+  font-weight: 900;
+  font-family: var(--font-playfair-display);
+}
+.hero-left-side-div {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  width: 315px;
+  height: 208px;
+}
+.hero-div {
+  position: absolute;
+  top: 133px;
+  left: calc(50% - 355px);
+  width: 711px;
+  height: 250px;
+  text-align: center;
+}
+.signup-btn-div1 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: var(--color-turquoise);
+  width: 110px;
+  height: 25px;
+}
+.sign-up-free {
+  position: absolute;
+  top: calc(50% - 6.5px);
+  left: 12.27%;
+  letter-spacing: 0.82px;
+  line-height: 13px;
+  font-weight: 800;
+  display: inline-block;
+}
+.signup-btn-div {
+  position: absolute;
+  top: 0;
+  left: 333px;
+  width: 110px;
+  height: 25px;
+  text-align: center;
+  color: var(--color-white);
+}
+.underlink-1-div,
+.underlink-2-div,
+.underlink-3-div,
+.underlink-4-div {
+  position: absolute;
+  height: 12%;
+  width: 16.03%;
+  top: 88%;
+  bottom: 0;
+  background-color: var(--color-turquoise);
+}
+.underlink-4-div {
+  right: 28.44%;
+  left: 55.53%;
+}
+.underlink-3-div {
+  right: 47.86%;
+  left: 36.12%;
+}
+.underlink-2-div {
+  right: 65.46%;
+  left: 18.51%;
+}
+.underlink-1-div {
+  right: 83.97%;
+  left: 0;
+}
+.features-div {
+  position: absolute;
+  top: calc(50% - 6.5px);
+  letter-spacing: 0.82px;
+  line-height: 13px;
+  font-weight: 800;
+  display: inline-block;
+}
+.partners-div {
+  left: 56.43%;
+}
+.partners-div,
+.pricing-div,
+.services-div {
+  position: absolute;
+  top: calc(50% - 6.5px);
+  letter-spacing: 0.82px;
+  line-height: 13px;
+  font-weight: 800;
+  display: inline-block;
+}
+.services-div {
+  left: 37.47%;
+}
+.pricing-div {
+  left: 20.77%;
+}
+.features-div {
+  left: 1.13%;
+}
+.links-div {
+  position: absolute;
+  top: 18px;
+  right: 16px;
+  width: 443px;
+  height: 25px;
+}
+.ninjamail-div1 {
+  position: absolute;
+  top: calc(50% - 20.47px);
+  left: 41.06%;
+  line-height: 26px;
+  font-weight: 900;
+  display: inline-block;
+}
+.mail-icon1 {
+  position: absolute;
+  height: calc(100% - 10.43px);
+  top: 0;
+  bottom: 10.43px;
+  left: 6px;
+  max-height: 100%;
+  width: 84px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.ninjamail-logo-div1 {
+  position: absolute;
+  top: 13px;
+  left: -6px;
+  width: 173.05px;
+  height: 52.43px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+}
+.nav-div,
+.ninjamail-tablet {
+  background-color: var(--color-white);
+  width: 100%;
+  overflow: hidden;
+}
+.nav-div {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 66px;
+  font-size: var(--font-size-sm);
+}
+.ninjamail-tablet {
+  position: relative;
+  height: 2565px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-raleway);
+}
